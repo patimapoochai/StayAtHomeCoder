@@ -3,6 +3,7 @@
   "private": true,
   "dependencies": {
     "@babel/runtime": "^7.12.1",
+    "@react-google-maps/api": "^1.13.0",
     "classnames": "^2.2.6",
     "core-js": "^3.6.4",
     "graphql": "^14.5.8",
